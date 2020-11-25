@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Tổng Quan"
+        android:id="@+id/nav_intro"
+        android:icon="@drawable/ic_home"
+        />
+    <item android:title="Thu"
+        android:id="@+id/nav_income"
+        android:icon="@drawable/ic_icome_nav"
+        />
+    <item android:title="Chi"
+        android:id="@+id/nav_pay"
+        android:icon="@drawable/ic_pay_nav"
+      />
+    <item android:title="Khác"
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_icome_nav"
+        />
+</menu>
